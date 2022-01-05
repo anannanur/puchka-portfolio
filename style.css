@@ -44,6 +44,11 @@ a{
     background-image: linear-gradient(120deg, #f75838, #F88064);
     border-radius: 5px;
 }
+.dream-big{
+    background-image: url(images/dream-bg.png);
+    background-repeat: no-repeat;
+    background-position: right;
+}
 .dream-big img{
     width: 95%;
 }
